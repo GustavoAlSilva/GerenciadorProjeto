@@ -2,23 +2,23 @@
 
 ### Gerenciador de Projetos
 
+
 # ⦁ Requisitos Funcionais:
-RF001 - O sistema deve permitir que o usuário se cadastre no site.
+RF001 - O sistema deve permitir que o usuário cadastre projetos.
 
-RF002 - O sistema deve possuir três tipos de usuários: comum, locador e administrador.
+RF002 - O sistema deve exigir a data de início e conclusão dos projetos.
 
-RF003 -  O sistema deve permitir que o usuário tenha acesso à página “Início”.
+RF003 - O sistema deve permitir que o usuário cadastre atividades nos projetos.
 
-RF004 - O sistema deve permitir que o usuário tenha acesso à página “Login”.
+RF004 - O sistema deve exigir a data de início e conclusão das atividades.
 
-RF005 - O sistema deve permitir que o usuário tenha acesso à página “Cadastro”.
+RF005 - O sistema deve calcular a porcentagem de progresso dos projetos.
 
-RF006 - O sistema deve disponibilizar um sistema de filtro de pesquisa na página “Início”.
+RF006 - O sistema deve calcular se o projeto terá atrasos ou não.
 
-RF007 - As quadras para locação devem estar na página “Início”.
 
-RF008 - O sistema deve permitir que os usuários locadores cadastrem quadras.
+# ⦁ Tecnologias Utilizadas:
+GitHub.
+Lucidchart.
 
-RF009 - O sistema deve permitir que os usuários comuns selecionem uma quadra para alugar através do botão “Alugar”.
-
-RF010 - O sistema deve permitir que o usuário administrador tenha controle sobre os cadastros de quadras.
+# ⦁ Funcionamento:

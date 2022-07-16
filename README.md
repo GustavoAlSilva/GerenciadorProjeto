@@ -19,7 +19,6 @@ RF006 - O sistema deve calcular se o projeto terá atrasos ou não.
 
 ### ⦁ Tecnologias Utilizadas:
 GitHub.
-
 Lucidchart.
 
 ### ⦁ Funcionamento:

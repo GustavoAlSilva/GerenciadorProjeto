@@ -38,5 +38,7 @@ GitHub.
 
 Lucidchart.
 
+VS Code.
+
 
 ### ⦁ Funcionamento:

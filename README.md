@@ -50,4 +50,8 @@ As telas principais possuem uma barra de navegação com a logo e dois botões: 
 
 Na tela inicial está a tabela que lista os projetos cadastrados. Além disso, há nela três tipos de botão: o cinza, que direciona o usuário para a lista de atividades do projeto correspondente; o verde, para editar os dados do projeto (abrirá um formulário); o vermelho, para deletar o projeto; e o azul, para cadastrar um novo projeto (abrirá um formulário).
 
-Na tela que contém as atividades de seu respectivo projeto, há o mesmo layout e lógica da tela inicial, com excessão dos botões cinzas (que foram justamente utilizados para chegar nessa tela)
+Na tela que contém as atividades de seu respectivo projeto, há o mesmo layout e lógica da tela inicial, com excessão dos botões cinzas (que foram justamente utilizados para chegar nessa tela).
+
+Anexei (na pasta "Modelagem") o diagrama de casos de uso; a modelagem do banco de dados; e o mapa do site; todos desenvolvidos via Lucidchart.
+
+Há também um arquivo JavaScript com a lógica do cálculo de porcentagem.

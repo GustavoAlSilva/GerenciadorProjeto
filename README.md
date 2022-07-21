@@ -40,5 +40,9 @@ Lucidchart.
 
 VS Code.
 
+XAMPP.
+
+Linguagens: HTML; CSS; PHP.
+
 
 ### ⦁ Funcionamento:

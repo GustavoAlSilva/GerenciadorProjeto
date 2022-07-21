@@ -55,3 +55,5 @@ Na tela que contém as atividades de seu respectivo projeto, há o mesmo layout 
 Anexei (na pasta "Modelagem") o diagrama de casos de uso; a modelagem do banco de dados; e o mapa do site; todos desenvolvidos via Lucidchart.
 
 Há também um arquivo JavaScript com a lógica do cálculo de porcentagem.
+
+O cálculo de atraso de um projeto foi feito baseado em suas próprias datas (Data de Início e Data Final).

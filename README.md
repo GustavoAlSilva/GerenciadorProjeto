@@ -46,3 +46,6 @@ Linguagens: HTML; CSS; PHP.
 
 
 ### ⦁ Funcionamento:
+E tela inicial é a listagem dos projetos, que começará vazia, para que o avaliador cadastre quantos exemplos achar necessário. Na tela inicial, há uma tabela, com um botão cinza na frente. Esse botão serve para abrirmos a lista de atividades de cada projeto. Temos, na direita, um botão verde para editar os dados dos projetos, e um vermelho para deletar o projeto. Embaixo da tabela há um botão azul, maior. Ele serve para cadastrar os projetos.
+Ao entrar na lista de atividades, segue o mesmo layput com os mesmos botões e sentido, com excessão, é claro, dos cinzas (que inicialmente serviram para char a essa lista). Na barra de navegação temos dois botões, um para cadastrar projeto e outro para voltar a tela inicial (lista de projetos).
+Anexei também um arquivo em JavaScript com a lógica do cálculo de porcentagem, na qual eu não fiz.

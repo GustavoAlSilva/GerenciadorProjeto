@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    background: #f5f5f5;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+form {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    padding: 40px 20px 20px;
+    background: white;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px #bebebe;
+}
+
+h1 {
+    font-size: 35px;
+    width: 100%;
+    text-align: center;
+    font-weight: 900;
+}
+
+input {
+    width: 100%;
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding-left: 15%;
+}
+
+input:focus {
+    outline-color: #2670a1;
+}
+
+.btn-cadastrar {
+    width: 90%;
+    padding: 20px;
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    background: #2670a1;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s ease;
+}
+
+.btn-cadastrar:hover {
+    background: #0e4061;
+}
+
+.btn-voltar {
+    width: 90%;
+    padding: 20px;
+    margin: 10px 0px 10px 0px;
+    background: #b40b0b;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s ease;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-voltar:hover {
+    background: #5f1313;
+}
+
+.input-group {
+    width: 90%;
+}

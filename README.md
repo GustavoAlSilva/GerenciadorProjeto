@@ -40,7 +40,7 @@ Lucidchart.
 
 VS Code.
 
-XAMPP.
+XAMPP (MySQL).
 
 Linguagens: HTML; CSS; PHP.
 

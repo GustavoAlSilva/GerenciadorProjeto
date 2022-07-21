@@ -47,5 +47,7 @@ Linguagens: HTML; CSS; PHP.
 
 ### ⦁ Funcionamento:
 As telas principais possuem uma barra de navegação com a logo e dois botões: o primeiro para retornar à tela inicial; e o segundo para abrir diretamente o formulário de cadastro de projeto.
+
 Na tela inicial está a tabela que lista os projetos cadastrados. Além disso, há nela três tipos de botão: o cinza, que direciona o usuário para a lista de atividades do projeto correspondente; o verde, para editar os dados do projeto (abrirá um formulário); o vermelho, para deletar o projeto; e o azul, para cadastrar um novo projeto (abrirá um formulário).
+
 Na tela que contém as atividades de seu respectivo projeto, há o mesmo layout e lógica da tela inicial, com excessão dos botões cinzas (que foram justamente utilizados para chegar nessa tela)

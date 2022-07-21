@@ -56,4 +56,4 @@ Anexei (na pasta "Modelagem") o diagrama de casos de uso; a modelagem do banco d
 
 Há também um arquivo JavaScript com a lógica do cálculo de porcentagem.
 
-O cálculo de atraso de um projeto foi feito baseado em suas próprias datas (Data de Início e Data Final).
+O cálculo de atraso de um projeto está se baseando em suas próprias datas (Data de Início e Data Final, apenas).
